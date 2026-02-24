@@ -84,6 +84,4 @@ The projects include structured test planning, detailed test case design, execut
 
 # ✅ Conclusion
 
-This repository demonstrates a structured and practical approach to manual software testing across Banking and eCommerce domains. It highlights real-world QA activities including requirement analysis, test planning, detailed test case design, execution tracking, and defect management using industry-standard tools such as TestRail, Jira, and Xray.
-
-The projects reflect a strong understanding of end-to-end application testing and serve as a foundation for expanding into automation and advanced QA practices in the future.
+This repository demonstrates a structured and practical approach to manual software testing across Banking and eCommerce domains. It highlights real-world QA activities including requirement analysis, test planning, detailed test case design, execution tracking, and defect management using industry-standard tools such as TestRail, Jira, and Xray.The projects reflect a strong understanding of end-to-end application testing.
